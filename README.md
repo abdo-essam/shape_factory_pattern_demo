@@ -6,9 +6,8 @@ A Flutter application demonstrating the Factory Design Pattern using shape creat
 
 
 | Main Screen | Info Dialog |
-|*The main interface showing shape selection buttons and display area*|*Information dialog explaining the Factory Pattern concept*|
+|---|---|
 | <img src="screenshots/main.png" width="250"> | <img src="screenshots/info.png" width="250"> |
-
 
 ## 🎯 Features
 
